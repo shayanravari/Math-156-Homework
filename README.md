@@ -1,4 +1,4 @@
-# Logistic Regression with Mini-Batch SGD on the Breast Cancer Dataset
+# Logistic Regression with Mini-Batch SGD
 
 ---
 
